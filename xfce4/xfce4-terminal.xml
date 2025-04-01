@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="command-login-shell" type="bool" value="false"/>
+  <property name="run-custom-command" type="bool" value="false"/>
+  <property name="custom-command" type="string" value="neofetch"/>
+  <property name="scrolling-on-output" type="bool" value="true"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="scrolling-unlimited" type="bool" value="true"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_IBEAM"/>
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
+  <property name="background-darkness" type="double" value="0.81000000000000005"/>
+  <property name="color-bold-use-default" type="bool" value="false"/>
+  <property name="color-bold" type="string" value="#0e0efefea6a6"/>
+  <property name="color-use-theme" type="bool" value="false"/>
+  <property name="misc-tab-close-middle-click" type="bool" value="false"/>
+  <property name="misc-mouse-autohide" type="bool" value="false"/>
+  <property name="misc-slim-tabs" type="bool" value="true"/>
+  <property name="tab-activity-color" type="string" value="#6262a0a0eaea"/>
+  <property name="color-palette" type="string" value="rgb(0,0,0);rgb(246,97,81);rgb(0,170,0);rgb(170,85,0);rgb(98,160,234);rgb(220,138,221);rgb(0,170,170);rgb(170,170,170);rgb(85,85,85);rgb(222,221,218);rgb(85,255,85);rgb(255,255,85);rgb(85,85,255);rgb(192,97,203);rgb(85,255,255);rgb(255,255,255)"/>
+  <property name="color-selection-use-default" type="bool" value="true"/>
+  <property name="color-bold-is-bright" type="bool" value="true"/>
+  <property name="color-background-vary" type="bool" value="false"/>
+  <property name="font-allow-bold" type="bool" value="true"/>
+  <property name="font-use-system" type="bool" value="true"/>
+  <property name="misc-toolbar-default" type="bool" value="false"/>
+  <property name="misc-menubar-default" type="bool" value="false"/>
+  <property name="misc-borders-default" type="bool" value="false"/>
+  <property name="color-background" type="string" value="#000000000000"/>
+  <property name="color-selection" type="string" value="#8f8ff0f0a4a4"/>
+  <property name="color-selection-background" type="string" value="#a5a51d1d2d2d"/>
+</channel>
